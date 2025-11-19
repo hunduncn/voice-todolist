@@ -441,9 +441,9 @@ npm run lint
 
 ## 👨‍💻 作者
 
-- 项目维护者：[Your Name](https://github.com/yourusername)
+- 项目维护者：[hunduncn](https://github.com/hunduncn)
 - 欢迎提出建议和改进意见！
-- 如有问题请提交 [Issue](https://github.com/yourusername/voice-todolist/issues)
+- 如有问题请提交 [Issue](https://github.com/hunduncn/voice-todolist/issues)
 
 ## 🙏 致谢
 
@@ -459,6 +459,5 @@ npm run lint
 
 **如果这个项目对你有帮助，请给一个 ⭐ Star！**
 
-Made with ❤️ by [Your Name]
 
 </div>
